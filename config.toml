@@ -1,4 +1,4 @@
-baseurl = "https://www.example.com"
+baseurl = "http://static.saboteur.vm/"
 title = "Site.title"
 theme = "vec"
 languageCode = "en-us"
